@@ -2,12 +2,17 @@
 
 <p align="center">A developer from Thailand</p>
 <p align="center">
+  <a href="mailTo:ueaangkun.inyaem@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Imeany12" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.leetcode.com/oatimeany" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://linkedin.com/in/ueaangkun-inyaem" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 - 📫 Reach me at: **ueaangkun.inyaem@gmail.com**
+  
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Centered Image" />
+</div>
 
 ## Work Experiences
 
@@ -50,4 +55,12 @@
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
     <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" />
 </p>
+
+## Stat
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imeany12&theme=dark" />
+
+## Credit
+- GIF: [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+- Badges: [Badge4-README](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- Streak Stats: [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
